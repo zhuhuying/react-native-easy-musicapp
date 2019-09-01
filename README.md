@@ -4,7 +4,7 @@
 实现功能  
 `1.登录注册`  
 基于本地搭建的服务器实现登录注册收藏歌单  
-![image](https://github.com/zhuhuying/my_resource/blob/master/images/mainscreen.jpg)
+![image](https://github.com/zhuhuying/my_resource/blob/master/images/collect.jpg)
 
 
 
