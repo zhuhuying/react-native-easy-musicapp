@@ -3,7 +3,7 @@
 
 实现功能  
 ### `1.登录注册`  
-基于本地搭建的服务器实现登录注册收藏歌单  
+基于本地搭建的服务器[local-node-server](https://github.com/zhuhuying/local-node-server)实现登录注册收藏歌单  
 ![image](https://github.com/zhuhuying/my_resource/blob/master/images/mainscreen.jpg)  
 主页面  
 ![image](https://github.com/zhuhuying/my_resource/blob/master/images/login.jpg)  
