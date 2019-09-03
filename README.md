@@ -33,6 +33,10 @@
 * [react-native-video@^4.4.1](https://github.com/react-native-community/react-native-video)  
 * [react-navigation@^3.6.0](https://github.com/react-navigation/react-navigation)  
 
+### 后续想法：  
+* 配合[redux](https://github.com/reduxjs/redux)进行播放行动的管理，实现歌词同步滚动  
+* 将页面丰富化
+
 因为是看到[NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi)之后，正好学习了[react-native](https://github.com/facebook/react-native)，于是有了这个想法，非常感谢这个Api，不然找音乐资源是个很头疼的事。我学习前端知识并不长，学习[react](https://github.com/facebook/react)，[react-native](https://github.com/facebook/react-native)等框架的时间也不长，这个demo做的的确很粗糙，且简陋，功能并不多，后续希望能够改进，在学习前端的路途上前行。
 
 
